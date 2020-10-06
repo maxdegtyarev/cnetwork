@@ -56,4 +56,6 @@ int main(int argc, char* argv[]) {
     }
 
     printf("Answer: %s\n", buffer);
+    
+    return 0;
 }
